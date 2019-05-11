@@ -1,5 +1,5 @@
 # Saliency-dataset-evaluation
-This repo can compute the ratio of obj.area and obj.contrast on binary saliency dataset. This Toolbox contains two evaluation metrics, including obj(object).area and obj.contrast.    
+This repo can compute the ratio of **obj.area** and **obj.contrast** on binary saliency dataset. This Toolbox contains two evaluation metrics, including obj(object).area and obj.contrast.    
 
 
 ## Citation
