@@ -1,6 +1,9 @@
 # Saliency-dataset-evaluation
 This repo can compute the ratio of **obj.area** and **obj.contrast** on binary saliency dataset. This Toolbox contains two evaluation metrics, including obj(object).area and obj.contrast.    
 
+Note: 
+* obj.area: the mean ratio of foreground into masks on dataset.   
+* obj.contrast: the mean value of color contrast for all RGB image.     
 
 ## Citation
 ```
