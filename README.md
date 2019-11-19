@@ -3,7 +3,7 @@ This repo can compute the ratio of **obj.area** and **obj.contrast** on binary s
 
 Note: 
 * obj.area: the mean ratio of foreground into masks on dataset.   
-* obj.contrast: the mean value of color contrast for all RGB image.     
+* obj.contrast: the mean value of color contrast for all RGB image.       
 
 ## Citation
 ```
